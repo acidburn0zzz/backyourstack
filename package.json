@@ -44,7 +44,7 @@
     "fs-extra": "^7.0.1",
     "gemfile": "^1.1.0",
     "graphql-request": "^1.8.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "lru-cache": "^5.1.1",
     "md5": "^2.2.1",
     "moment": "^2.24.0",
